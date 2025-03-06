@@ -25,6 +25,14 @@ You only need the executable, the assembly is just outputted for debugging and t
 ### Commands
 Here is a list of all the commands in Quark: <br>
 
-`print` -> Prints a value to the console with a newline. <br>
-`put` -> Prints a value to the console without a newline. <br>
-`beep(time, hz)` -> Plays a beep with the two arguments being time and frequency. <br>
+`print(value)` -> Prints a value to the console with a newline. <br>
+`put(value)` -> Prints a value to the console without a newline. <br>
+`beep(time, hz)` -> Plays a beep with the two arguments being time in ms and frequency. <br>
+`cursorTo(x, y)` -> Moves the mouse cursor to a specified position<br>
+`wait(time)` -> Halts the program for a specified time in ms.<br>
+`msg(title, content)` -> Opens a windows system message popup on the users screen.<br>
+`bell` -> Plays the windows bell notification sound<br>
+`cursorClickL` -> Simulates a mouse left click.<br>
+`cursorClickR` -> Simulates a mouse right click.<br>
+`cursorHoldL` -> Holds the left mouse button.<br>
+`cursorHoldR` -> Holds the right mouse button.<br>
