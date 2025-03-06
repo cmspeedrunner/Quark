@@ -36,3 +36,5 @@ Here is a list of all the commands in Quark: <br>
 `cursorClickR` -> Simulates a mouse right click.<br>
 `cursorHoldL` -> Holds the left mouse button.<br>
 `cursorHoldR` -> Holds the right mouse button.<br>
+`cursorUpL` -> Releases the left mouse button.<br>
+`cursorUpR` -> Releases the right mouse button.<br>
