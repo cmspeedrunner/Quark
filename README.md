@@ -39,4 +39,4 @@ Here is a list of all the commands in Quark: <br>
 `cursorUpL` -> Releases the left mouse button.<br>
 `cursorUpR` -> Releases the right mouse button.<br>
 `exec(program)` -> Starts the given program. <br>
-
+`removeBg` -> Clears the users wallpaper to a black screen <br>
