@@ -38,3 +38,5 @@ Here is a list of all the commands in Quark: <br>
 `cursorHoldR` -> Holds the right mouse button.<br>
 `cursorUpL` -> Releases the left mouse button.<br>
 `cursorUpR` -> Releases the right mouse button.<br>
+`exec(program)` -> Starts the given program. <br>
+
