@@ -39,4 +39,21 @@ Here is a list of all the commands in Quark: <br>
 `cursorUpL` -> Releases the left mouse button.<br>
 `cursorUpR` -> Releases the right mouse button.<br>
 `exec(program)` -> Starts the given program. <br>
-`removeBg` -> Clears the users wallpaper to a black screen <br>
+`bgDisable` -> Clears the users wallpaper to a black screen <br>
+
+## Example Program
+```
+print("Hello, User.")
+wait(1000) 
+bell
+msg("Title", "Your about to be pranked")
+wait(500)
+cursorTo(100,100)
+cursorHoldL
+cursorTo(1000,1000)
+cursorUpL
+beep(500,1000)
+```
+
+## Thats all folks!
+Thats it for now, however, any contributions are greatly appreciated. I will be updating this soon.
